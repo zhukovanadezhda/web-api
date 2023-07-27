@@ -12,10 +12,10 @@ cd web-api
 ```
 ### Setup the conda environment
 
-Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) and [mamba](https://github.com/mamba-org/mamba). Create the `web-api` conda environment:
+Install [miniconda](https://docs.conda.io/en/latest/miniconda.html). Create the `web-api` conda environment:
 
 ```bash
-mamba env create -f binder/environment.yml
+conda env create -f binder/environment.yml
 ```
 
 ### Load the environment
