@@ -1,1 +1,1 @@
-# web_api
+# HTTP Web API for Neural Network Model Utilization
