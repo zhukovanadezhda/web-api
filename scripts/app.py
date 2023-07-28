@@ -51,4 +51,4 @@ def index():
         return jsonify({"error": "The file should be in XML format."}), 400
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=5000)
