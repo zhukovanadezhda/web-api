@@ -10,8 +10,6 @@ Users can interact with this API by utilizing tools such as Postman or any other
 
 ### Clone the repository
 
-Clone the repository:
-
 ```bash
 git clone git@github.com:zhukovanadezhda/web-api.git
 cd web-api
