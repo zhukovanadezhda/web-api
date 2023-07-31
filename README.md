@@ -39,7 +39,7 @@ python scripts/app.py
 Then go to Postman and follow the steps:
 1. Put "http://localhost:5000" as a URL
 2. Change the method to POST
-3. Click `Body` -> `form-data`
+3. Click `Body` -> `form-data` <br>
    Choose `file` as a key and select `File` as a type of the key.
    Select your .xml file for the value.
 4. Click `Send` and enjoy the results.
